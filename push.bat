@@ -22,3 +22,4 @@ if %errorlevel% neq 0 (
 echo.
 echo Done! If you saw no errors, your site is on GitHub.
 pause
+
